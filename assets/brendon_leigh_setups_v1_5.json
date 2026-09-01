@@ -1,0 +1,2236 @@
+{
+  "author": "Brendon Leigh",
+  "package_version": "1.5",
+  "schema_version": 1,
+  "source_date": "2026-07-16",
+  "tracks": {
+    "Abu Dhabi": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 42
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 37
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 37
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 42
+      }
+    },
+    "Australia": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 40
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 45,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 25
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 45,
+        "off_throttle_diff": 35,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 25
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 20,
+        "rear_wing": 40
+      }
+    },
+    "Austria": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 42
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 42
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      }
+    },
+    "Azerbaijan": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 30,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 20
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 16,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 11
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 16,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 11
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 35,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 25
+      }
+    },
+    "Bahrain": {
+      "intermediates": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 100,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 47
+      },
+      "qualifying": {
+        "brake_bias": [
+          56,
+          55
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 100,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "race": {
+        "brake_bias": [
+          56,
+          55
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 100,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "wets": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 100,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 47
+      }
+    },
+    "Barcelona": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 43,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      },
+      "qualifying": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 43,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 43
+      },
+      "race": {
+        "brake_bias": [
+          56,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 43,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 43
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 43,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      }
+    },
+    "Belgium": {
+      "intermediates": {
+        "brake_bias": [
+          55,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 25,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 10
+      },
+      "qualifying": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 20,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 0
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 20,
+        "off_throttle_diff": 35,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 0
+      },
+      "wets": {
+        "brake_bias": [
+          55,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 40,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 20
+      }
+    },
+    "Brazil": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 33,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 24
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 33,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 24
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 14,
+        "rear_wing": 44
+      }
+    },
+    "Britain": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 25,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 42
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 23,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 8
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 23,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 8
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 20,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 42
+      }
+    },
+    "Canada": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 25,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 40
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 36
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 36
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 25,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 42
+      }
+    },
+    "China": {
+      "intermediates": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 1,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          55
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 1,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 40
+      },
+      "race": {
+        "brake_bias": [
+          56,
+          55
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 1,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 40
+      },
+      "wets": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 1,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 45,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      }
+    },
+    "Hungary": {
+      "intermediates": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 2,
+        "front_left_pressure": 27.0,
+        "front_ride_height": 21,
+        "front_right_pressure": 27.0,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          56
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 2,
+        "front_left_pressure": 27.0,
+        "front_ride_height": 21,
+        "front_right_pressure": 27.0,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "race": {
+        "brake_bias": [
+          56
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 2,
+        "front_left_pressure": 27.0,
+        "front_ride_height": 21,
+        "front_right_pressure": 27.0,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "wets": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 2,
+        "front_left_pressure": 27.0,
+        "front_ride_height": 21,
+        "front_right_pressure": 27.0,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      }
+    },
+    "Imola": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 40,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 14,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 40,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 14,
+        "rear_wing": 40
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 40,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 14,
+        "rear_wing": 40
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 40,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 14,
+        "rear_wing": 44
+      }
+    },
+    "Japan": {
+      "intermediates": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 42,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 40
+      },
+      "qualifying": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 42,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 38
+      },
+      "race": {
+        "brake_bias": [
+          56,
+          55
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 42,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 38
+      },
+      "wets": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 42,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 40
+      }
+    },
+    "Las Vegas": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 30,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 20
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 22,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 15
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 22,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 15
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 35,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 20
+      }
+    },
+    "Madrid": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 45
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 40
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 40
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 45
+      }
+    },
+    "Mexico": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 33,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 30
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 33,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 30
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 44
+      }
+    },
+    "Miami": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 7,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 40,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 30
+      },
+      "qualifying": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 7,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 40,
+        "off_throttle_diff": 50,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 18
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 7,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 40,
+        "off_throttle_diff": 50,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 18
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 7,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 40,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 30
+      }
+    },
+    "Monaco": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 13,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 45,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 1,
+        "rear_wing": 50
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 13,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 45,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 1,
+        "rear_wing": 50
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 35,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 13,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 45,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 1,
+        "rear_wing": 50
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 3,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 22,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 13,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 45,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 1,
+        "rear_wing": 50
+      }
+    },
+    "Monza": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 20,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 10
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 16,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 4
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 16,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 4
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 30,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 25,
+        "rear_wing": 20
+      }
+    },
+    "Qatar": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 15,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 43
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 20,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 43
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 24,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 41,
+        "rear_wing": 45
+      }
+    },
+    "Saudi Arabia": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 40,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 20
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 35,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 0
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 35,
+        "off_throttle_diff": 35,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 0
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 5,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 45,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 8,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 30
+      }
+    },
+    "Singapore": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 50
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 44
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 44
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 6,
+        "rear_left_pressure": 20.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 20.5,
+        "rear_suspension": 10,
+        "rear_wing": 50
+      }
+    },
+    "Texas": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 47
+      },
+      "qualifying": {
+        "brake_bias": [
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 22.0,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 22.0,
+        "rear_suspension": 10,
+        "rear_wing": 45
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 45
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 21,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 9,
+        "rear_left_pressure": 26.5,
+        "rear_ride_height": 40,
+        "rear_right_pressure": 26.5,
+        "rear_suspension": 10,
+        "rear_wing": 50
+      }
+    },
+    "Zandvoort": {
+      "intermediates": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 11,
+        "rear_left_pressure": 24.0,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 24.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      },
+      "qualifying": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 11,
+        "rear_left_pressure": 24.0,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 24.0,
+        "rear_suspension": 41,
+        "rear_wing": 37
+      },
+      "race": {
+        "brake_bias": [
+          55,
+          54
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 11,
+        "rear_left_pressure": 24.0,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 24.0,
+        "rear_suspension": 41,
+        "rear_wing": 37
+      },
+      "wets": {
+        "brake_bias": [
+          54,
+          53
+        ],
+        "brake_pressure": 100,
+        "camber_toe": "ALL LEFT",
+        "front_anti_roll_bar": 4,
+        "front_left_pressure": 29.5,
+        "front_ride_height": 23,
+        "front_right_pressure": 29.5,
+        "front_suspension": 41,
+        "front_wing": 50,
+        "off_throttle_diff": 30,
+        "on_throttle_diff": 100,
+        "rear_anti_roll_bar": 11,
+        "rear_left_pressure": 24.0,
+        "rear_ride_height": 44,
+        "rear_right_pressure": 24.0,
+        "rear_suspension": 41,
+        "rear_wing": 44
+      }
+    }
+  }
+}

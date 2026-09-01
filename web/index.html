@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>F1 Telemetry Hub</title>
+  <link rel="icon" type="image/png" href="../assets/race_command_icon_v2.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">F1</span><span>RACE COMMAND<small>TELEMETRY HUB</small></span></div>
+      <nav id="nav"></nav>
+      <div class="udp-status"><span class="status-dot"></span><div><strong>UDP RECEIVER</strong><small id="udp-port">PORT 20777 · READY</small></div></div>
+    </aside>
+    <main>
+      <header id="topbar"></header>
+      <section id="content"></section>
+    </main>
+  </div>
+  <div id="toast" role="status"></div>
+  <div id="alert-stack" aria-live="assertive"></div>
+  <div id="welcome" class="welcome-hidden">
+    <div class="welcome-card">
+      <div class="welcome-brand"><span class="brand-mark">F1</span><span>RACE COMMAND<small>TELEMETRY HUB</small></span></div>
+      <h1 id="welcome-title">Welcome back.</h1>
+      <p id="welcome-sub">Get in the car. The engineer is listening for telemetry on UDP <b>20777</b>.</p>
+      <div class="welcome-radar"><i></i><i></i><i></i><span id="welcome-status">WAITING FOR SIGNAL</span></div>
+      <div class="welcome-shortcuts">
+        <div><kbd>F11</kbd><span>Couch Mode — big fonts, no sidebar</span></div>
+        <div><kbd>Esc</kbd><span>Leave Couch Mode</span></div>
+        <div><kbd>Reports</kbd><span>Every session saved automatically</span></div>
+      </div>
+      <button class="button primary welcome-dismiss" id="welcome-dismiss">START RACING</button>
+    </div>
+  </div>
+  <script type="module" src="app.js?v=opening-lap-guard"></script>
+</body>
+</html>
